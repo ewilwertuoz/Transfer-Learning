@@ -1,1 +1,1 @@
-# Transfer-Learning
+Данный проект был сделан для курсовой работы. В нем происходит обучение методу Transfer Learning для CNN. Здесь использовалась предобученная сеть Resnet 18 и dataset с kaggle "10 Big Cats of the Wild - Image Classification". Был выполнен в Google Colab, а dataset хранился на Google Drive.
